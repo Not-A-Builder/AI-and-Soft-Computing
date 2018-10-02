@@ -7,3 +7,4 @@ Day 2 - Multilayer Neural Network; Training Multilayer NN.
 
 Day 5 - Bayesian Inference example; NN example
 
+Day 6 - Perceptron Logic Gate example 2
