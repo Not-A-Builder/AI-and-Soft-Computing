@@ -11,4 +11,6 @@ Day 5 - Bayesian Inference example; NN example
 
 Day 6 - Perceptron Logic Gate example 2
 
+### Take a sneak peek into Important Take-Aways
+
 Go learn!
