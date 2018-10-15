@@ -1,7 +1,7 @@
 # Basics-of-AI
 Basics of AI including PyPlot tutorials, Fuzzy Logic, Genetic Algorithms, Bayesian Networks, Perceptrons and NN's.
 
-Significant topics covered day wise: 
+Significant topics covered according to each day:
 
 Day 1 - PyPlot tutorial.
 
