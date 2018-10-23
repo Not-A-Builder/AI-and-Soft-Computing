@@ -40,3 +40,5 @@ Perception<br>
 Learning<br>
 Planning<br>
 Ability to manipulate and move objects<br>
+
+## But what IS Soft Computing?
