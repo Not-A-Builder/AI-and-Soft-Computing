@@ -26,3 +26,5 @@ Speech recognition<br>
 Learning<br>
 Planning<br>
 Problem solving<br>
+
+#### Alternatively...
