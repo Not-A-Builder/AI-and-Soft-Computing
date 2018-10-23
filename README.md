@@ -42,3 +42,7 @@ Planning<br>
 Ability to manipulate and move objects<br>
 
 ## But what IS Soft Computing?
+
+Soft computing is the use of approximate calculations to provide imprecise but usable solutions to complex computational problems. The approach enables solutions for problems that may be either unsolvable or just too time-consuming to solve with current hardware. Soft computing is sometimes referred to as computational intelligence.
+
+Soft computing provides an approach to problem-solving using means other than computers. With the human mind as a role model, soft computing is tolerant of partial truths, uncertainty, imprecision and approximation, unlike traditional computing models. The tolerance of soft computing allows researchers to approach some problems that traditional computing can't process.
