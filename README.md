@@ -17,3 +17,7 @@ Day 6 - Perceptron Logic Gate example 2
 -> A comprehensive guide through the making of a single layer NN
 
 ### Go learn!
+
+## But what IS AI?
+
+
