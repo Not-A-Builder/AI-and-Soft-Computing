@@ -20,4 +20,9 @@ Day 6 - Perceptron Logic Gate example 2
 
 ## But what IS AI?
 
+Artificial intelligence (AI) is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans. Some of the activities computers with artificial intelligence are designed for include:
 
+Speech recognition<br>
+Learning<br>
+Planning<br>
+Problem solving<br>
