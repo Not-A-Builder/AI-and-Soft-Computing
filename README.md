@@ -48,3 +48,21 @@ Soft computing is the use of approximate calculations to provide imprecise but u
 Soft computing provides an approach to problem-solving using means other than computers. With the human mind as a role model, soft computing is tolerant of partial truths, uncertainty, imprecision and approximation, unlike traditional computing models. The tolerance of soft computing allows researchers to approach some problems that traditional computing can't process.  
 
 As a field of mathematical and computer study, soft computing has been around since the 1990s. The inspiration was the human mind's ability to form real-world solutions to problems through approximation. Soft computing contrasts with possibility, an approach that is used when there is not enough information available to solve a problem. In contrast, soft computing is used where the problem is not adequately specified for the use of conventional math and computer techniques. Soft computing has numerous real-world applications in domestic, commercial and industrial situations.
+
+Soft computing uses component fields of study in:
+
+•Fuzzy logic</p>
+•Machine learning</p>
+•Probabilistic reasoning</p>
+•Evolutionary computation</p>
+•Perceptron</p>
+•Genetic algorithms</p>
+•Differential algorithms</p>
+•Support vector machines</p>
+•Metaheuristics</p>
+•Swarm intelligence</p>
+•Ant colony optimization</p>
+•Particle optimization</p>
+•Bayesian networks</p>
+•Artificial neural networks</p>
+•Expert systems</p>
