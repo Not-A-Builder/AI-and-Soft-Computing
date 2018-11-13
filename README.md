@@ -11,6 +11,8 @@ Day 5 - Bayesian Inference example; NN example
 
 Day 6 - Perceptron Logic Gate example 2
 
+##### Comprehensive NN Example - Student_Admissions_NN_Example.ipynb
+
 ### Take a sneak peek into Important Take-Aways!
 -> A brand-new example for solving Classifier problems
 
