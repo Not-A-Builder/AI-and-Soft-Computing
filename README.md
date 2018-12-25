@@ -1,4 +1,4 @@
-# Basics-of-AI AND SOFT COMPUTING
+# Basics-of-AI and Soft Computing
 Basics of AI including PyPlot tutorials, Fuzzy Logic, Genetic Algorithms, Bayesian Networks, Perceptrons and Neural Networks.
 
 **Significant topics covered according to each day:**
