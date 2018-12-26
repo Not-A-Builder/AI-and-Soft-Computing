@@ -3,7 +3,7 @@ Basics of AI including PyPlot tutorials, Fuzzy Logic, Genetic Algorithms, Bayesi
 
 **Significant topics covered according to each day:**
 
-Day 1 - PyPlot tutorial.
+Day 1 - PyPlot tutorial and basic plotting.
 
 Day 2 - Multilayer Neural Network; Training Multilayer NN.
 
